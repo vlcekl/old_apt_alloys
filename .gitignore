@@ -1,5 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
-./data/
-./sim/
-./src/
+./data
+./sim
+./src
